@@ -271,7 +271,8 @@ Performance:
 
 
 License
-This project is licensed under the MIT License.
+## License
+This project is licensed under a [Proprietary License](LICENSE). Non-commercial use is permitted with attribution. Commercial use requires a paid license.
 Credits
 
 Author: Bilal Saif
