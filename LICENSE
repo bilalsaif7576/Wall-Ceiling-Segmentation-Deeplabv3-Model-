@@ -1,0 +1,30 @@
+Wall and Ceiling Segmentation AR Project License
+
+Copyright (c) 2025 Bilal Saif
+
+All rights reserved.
+
+This software, including the Wall and Ceiling Segmentation AR model (`Final_Wall_Segmentation.tflite`), source code (`optimized_wall_segmentation_with_fallback.py`, `evaluate_model_metrics.py`, `visualize_validation_metrics.py`, `test_wall_segmentation_tflite.py`, `WallCeilingSegmentation.js`), and associated documentation, is the proprietary property of [Your Full Name].
+
+**Terms of Use**:
+1. **Non-Commercial Use**: You are granted a non-exclusive, non-transferable license to use, copy, and modify the software for personal, non-commercial purposes (e.g., research, education), provided that:
+   - This copyright notice and license are included in all copies.
+   - The software is not used for commercial purposes.
+
+2. **Commercial Use**: Any commercial use, including integration into products, services, or applications (e.g., AR visualization apps), requires a separate commercial license. Contact [Your Email Address or LinkedIn Profile URL] to obtain a commercial license.
+
+3. **Restrictions**:
+   - You may not distribute, sublicense, or sell the software without written permission from [Your Full Name].
+   - You may not use the software in commercial applications without a commercial license.
+   - You may not remove or alter any copyright or license notices.
+
+4. **No Warranty**: The software is provided "as is," without warranties of any kind, express or implied, including but not limited to merchantability or fitness for a particular purpose. [Your Full Name] is not liable for any damages arising from use.
+
+5. **Termination**: Violation of these terms will terminate your license, and [Your Full Name] reserves the right to pursue legal remedies.
+
+**Contact**:
+For commercial licensing or inquiries, please contact bilalsaifcheema7576@gmail.com OR www.linkedin.com/in/bilalsaif7576
+
+Bilal Saif
+Location: lahore, Pakistan 
+Effective Date: June 3, 2025
